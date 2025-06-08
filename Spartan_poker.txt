@@ -1,0 +1,34 @@
+🚨 We're Hiring | Senior DevOps Engineer (8+ Years Experience)
+ 
+ 🎮 Industry: Online Gaming (Poker & Rummy Platforms)
+
+Are you a DevOps expert passionate about building reliable, scalable, and secure infrastructure for high-performance platforms? Join our team and play a key role in powering the next generation of online gaming experiences.
+
+🔧 What You’ll Do:
+Architect and implement scalable, resilient infrastructure for real-time gaming platforms.
+Build and manage CI/CD pipelines to ensure rapid, reliable releases.
+Oversee and optimize cloud environments (AWS, Azure, or GCP).
+Implement and fine-tune monitoring, alerting, and logging systems.
+Automate infrastructure with Terraform, CloudFormation, or similar IaC tools.
+Improve security, reliability, and uptime across platforms.
+Lead incident response and troubleshoot production issues in a 24x7 environment.
+Collaborate with development and operations teams to streamline delivery.
+Mentor junior DevOps engineers and establish best practices.
+
+✅ What We’re Looking For:
+8+ years in DevOps/Site Reliability Engineering.
+Hands-on experience with AWS, Azure, or GCP.
+Expertise in CI/CD tools (Jenkins, GitLab CI, CircleCI).
+Solid experience with IaC (Terraform, CloudFormation).
+Deep knowledge of Docker, Kubernetes, and orchestration tools.
+Strong skills in monitoring & logging (Prometheus, Grafana, ELK).
+Proficiency in scripting (Python, Bash).
+Familiarity with networking, security, and performance tuning.
+Bonus: Background in online gaming, microservices, or serverless architectures.
+
+Why Join Us?
+ Work in a fast-paced, tech-first environment that values innovation, ownership, and impact. You’ll be solving real-world scaling challenges and helping us redefine how users experience online gaming.
+
+📩 Interested?
+ Apply now or send your resume to jeetika.oberoi@spartanpoker.com.
+ Let’s build something game-changing together!
