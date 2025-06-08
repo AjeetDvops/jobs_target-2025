@@ -1,0 +1,30 @@
+DevOps Engineer (Apple)
+
+Description
+
+As a virtue of being part of this team you would be exposed to a variety of challenges supporting and building highly available systems, working closely with U.S. and India based teams and have the opportunity to expand the capabilities the team has to offer to the wider organization. This may include: 
+
+-  Designing and implementing new solutions to streamline manual operations
+
+-  Triaging security and production issues along with other operational team members. Conduct root cause analysis of critical issues
+
+-  Expand the capacity and performance of current operational systems
+
+The ideal candidate will be a self-motivated, hands-on, dynamic and detail oriented individual with a strong technical background
+
+
+Minimum Qualifications
+4+ years proven experience in DevOps/SRE, systems engineering, build/release/deployment automation, etc.
+Good understanding of distributed systems, APIs, and cloud computing
+Experience with hosted services in a high-volume enterprise environment
+Implementing applications in private/public cloud infrastructure and container technologies, like Kubernetes and Docker
+Experience with develop software tooling to deliver programmable infrastructure & environments and building CI/CD pipeline with tools like Terraform, CloudFormation, Ansible, and Kubernetes toolset (e.g, kubectl, kustomize)
+Strong foundation in computer science fundamentals: object oriented programming, data structures, algorithms, operating systems, and distributed systems concepts
+Solid understanding of software design principles and patterns for building maintainable systems
+Ability to program in a high-level programming languages or scripting, such Java, Python, Shell, Golang, etc.
+Experience with logging infrastructure and using tools like Splunk, Logstash, or Kibana and networking load balancers such as Ngnix, Netscaler, HAProxy
+Operational experience with AWS or similar platforms through migrations, scaling operations etc.
+Background building distributed, server-based infrastructure supporting a high traffic in a critically important environment
+Preferred Qualifications
+In-Depth knowledge on AWS services including VPC, IAM, EC2, EKS, CloudWatch, S3, RDS, Route53. Experience in similar services for GCP
+AWS Cloud Architect and/or Certified Kubernetes Administrator (CKA) certifications
